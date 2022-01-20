@@ -1,0 +1,49 @@
+#info-container {
+    margin-left: 10%;
+    margin-bottom: 15px;
+}
+
+/* .center-please {
+    display: flex;
+    justify-content: center;
+} */
+
+.card {
+    box-shadow: 4px 4px 4px #262a30;
+    margin-top: 5px;
+    width: 90%;
+    background-color: #262a30;
+}
+
+.okMes{
+    color: white !important;
+    display: flex;
+    justify-content: center;
+}
+
+.err{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.card-header {
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
+
+.card-text div{
+    padding: 4px;
+    border-radius: 8px;
+    background-color: whitesmoke;
+    margin: 4px;
+}
+
+.buttons{
+    justify-content: right;
+}
+
+body {
+    background-color: rgb(158, 154, 154)!important;
+}
